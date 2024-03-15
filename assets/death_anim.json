@@ -1,0 +1,103 @@
+{
+	"textures": [
+		{
+			"image": "texture",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1001,
+				"h": 145
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "death_anim_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 112,
+						"w": 350,
+						"h": 58
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 58
+					}
+				},
+				{
+					"filename": "death_anim_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 106,
+						"w": 335,
+						"h": 58
+					},
+					"frame": {
+						"x": 350,
+						"y": 0,
+						"w": 335,
+						"h": 58
+					}
+				},
+				{
+					"filename": "death_anim_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 89,
+						"w": 316,
+						"h": 75
+					},
+					"frame": {
+						"x": 685,
+						"y": 0,
+						"w": 316,
+						"h": 75
+					}
+				},
+				{
+					"filename": "death_anim_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 77,
+						"w": 297,
+						"h": 87
+					},
+					"frame": {
+						"x": 0,
+						"y": 58,
+						"w": 297,
+						"h": 87
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

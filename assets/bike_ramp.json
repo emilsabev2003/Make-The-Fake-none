@@ -1,0 +1,187 @@
+{
+	"textures": [
+		{
+			"image": "texture",
+			"format": "RGBA8888",
+			"size": {
+				"w": 275,
+				"h": 479
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bike_ramp_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 128,
+						"h": 163
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 163
+					}
+				},
+				{
+					"filename": "bike_ramp_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 123,
+						"h": 161
+					},
+					"frame": {
+						"x": 0,
+						"y": 163,
+						"w": 123,
+						"h": 161
+					}
+				},
+				{
+					"filename": "bike_ramp_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 9,
+						"w": 138,
+						"h": 155
+					},
+					"frame": {
+						"x": 0,
+						"y": 324,
+						"w": 138,
+						"h": 155
+					}
+				},
+				{
+					"filename": "bike_ramp_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 23,
+						"w": 145,
+						"h": 141
+					},
+					"frame": {
+						"x": 123,
+						"y": 163,
+						"w": 145,
+						"h": 141
+					}
+				},
+				{
+					"filename": "bike_ramp_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 41,
+						"w": 147,
+						"h": 120
+					},
+					"frame": {
+						"x": 128,
+						"y": 0,
+						"w": 147,
+						"h": 120
+					}
+				},
+				{
+					"filename": "bike_ramp_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 41,
+						"w": 147,
+						"h": 120
+					},
+					"frame": {
+						"x": 128,
+						"y": 0,
+						"w": 147,
+						"h": 120
+					}
+				},
+				{
+					"filename": "bike_ramp_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 23,
+						"w": 145,
+						"h": 141
+					},
+					"frame": {
+						"x": 123,
+						"y": 163,
+						"w": 145,
+						"h": 141
+					}
+				},
+				{
+					"filename": "bike_ramp_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 9,
+						"w": 138,
+						"h": 155
+					},
+					"frame": {
+						"x": 0,
+						"y": 324,
+						"w": 138,
+						"h": 155
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

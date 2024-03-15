@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "bike_360_side_flip.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 823,
+				"h": 160
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "360_side_flip_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 9,
+						"w": 122,
+						"h": 158
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 122,
+						"h": 158
+					}
+				},
+				{
+					"filename": "360_side_flip_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 9,
+						"w": 122,
+						"h": 158
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 122,
+						"h": 158
+					}
+				},
+				{
+					"filename": "360_side_flip_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 9,
+						"w": 122,
+						"h": 158
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 122,
+						"h": 158
+					}
+				},
+				{
+					"filename": "360_side_flip_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 6,
+						"w": 122,
+						"h": 158
+					},
+					"frame": {
+						"x": 125,
+						"y": 1,
+						"w": 122,
+						"h": 158
+					}
+				},
+				{
+					"filename": "360_side_flip_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 7,
+						"w": 69,
+						"h": 156
+					},
+					"frame": {
+						"x": 249,
+						"y": 1,
+						"w": 69,
+						"h": 156
+					}
+				},
+				{
+					"filename": "360_side_flip_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 7,
+						"w": 69,
+						"h": 156
+					},
+					"frame": {
+						"x": 320,
+						"y": 1,
+						"w": 69,
+						"h": 156
+					}
+				},
+				{
+					"filename": "360_side_flip_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 12,
+						"w": 137,
+						"h": 154
+					},
+					"frame": {
+						"x": 391,
+						"y": 1,
+						"w": 137,
+						"h": 154
+					}
+				},
+				{
+					"filename": "360_side_flip_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 19,
+						"w": 143,
+						"h": 140
+					},
+					"frame": {
+						"x": 530,
+						"y": 1,
+						"w": 143,
+						"h": 140
+					}
+				},
+				{
+					"filename": "360_side_flip_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 27,
+						"w": 147,
+						"h": 123
+					},
+					"frame": {
+						"x": 675,
+						"y": 1,
+						"w": 147,
+						"h": 123
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:113c30878942931c8420530f009f30dd:c1cca6c0396bbf81790fbf412478e504:8d3ff6fad2f1bf865c8a9715fc2c15b5$"
+	}
+}
